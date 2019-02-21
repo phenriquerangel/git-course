@@ -1,5 +1,9 @@
 # Github
 
-Arquivo da aula Git e GitHub para a aula de iniciantes
+#Arquivo da aula Git e GitHub para a aula de iniciantes
 
-Apenas pra modificar o status
+#Apenas pra modificar o status
+
+#Gostou do curso? ajude com uma doação.. até um cafe vale
+
+#ASGYASGYAGSYASgy
